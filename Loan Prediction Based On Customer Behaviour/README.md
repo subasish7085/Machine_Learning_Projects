@@ -1,0 +1,2 @@
+LOAN PREDICTION ON CUSTOMER BEHAVIOUR
+The main goal of a loan prediction project based on customer behavior using machine learning is to accurately assess the creditworthiness of customers and predict their likelihood of defaulting on a loan. By leveraging historical data and customer behavior patterns, the project aims to provide insights and predictions that can support loan approval decisions and risk management in lending institutions.
